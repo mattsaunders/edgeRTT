@@ -4,12 +4,6 @@ This example demonstrates how to setup a simple HTTP GET endpoint. Once you ping
 
 This is based off of the serverless example found [here](https://github.com/serverless/examples/tree/master/aws-node-simple-http-endpoint).
 
-You will need to setup your AWS credentials by following this guide: https://www.youtube.com/watch?v=KngM5bfpttA
-
-```bash
-serverless config credentials --provider aws --key  <your aws key> --secret <your aws secret>
-```
-
 ## Use Cases
 
 - Wrapping an existing internal or external endpoint/service
